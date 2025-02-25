@@ -8,7 +8,7 @@ SUB HEAD
 
 IMAGE 1 FILE
 
-`transit.jpg`
+`trajpgnsit.`
 
 IMAGE 1 ALT TEXT
 
